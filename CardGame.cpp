@@ -200,148 +200,148 @@ int main() {
 
 	Card deck[36];    // массив колоды
 	deck[0].number = 6;
-	deck[0].suit = "chirva";
+	deck[0].suit = "hearts";
 	deck[0].name = "six";
 
 	deck[1].number = 6;
-	deck[1].suit = "creste";
+	deck[1].suit = "clubs";
 	deck[1].name = "six";
 
 	deck[2].number = 6;
-	deck[2].suit = "buba";
+	deck[2].suit = "diamonds";
 	deck[2].name = "six";
 
 	deck[3].number = 6;
-	deck[3].suit = "pika";
+	deck[3].suit = "spades";
 	deck[3].name = "six";
 
 	deck[4].number = 7;
-	deck[4].suit = "chirva";
+	deck[4].suit = "hearts";
 	deck[4].name = "seven";
 
 	deck[5].number = 7;
-	deck[5].suit = "creste";
+	deck[5].suit = "clubs";
 	deck[5].name = "seven";
 
 	deck[6].number = 7;
-	deck[6].suit = "buba";
+	deck[6].suit = "diamonds";
 	deck[6].name = "seven";
 
 	deck[7].number = 7;
-	deck[7].suit = "pika";
+	deck[7].suit = "spades";
 	deck[7].name = "seven";
 
 	deck[8].number = 8;
-	deck[8].suit = "chirva";
+	deck[8].suit = "hearts";
 	deck[8].name = "eight";
 
 	deck[9].number = 8;
-	deck[9].suit = "creste";
+	deck[9].suit = "clubs";
 	deck[9].name = "eight";
 
 	deck[10].number = 8;
-	deck[10].suit = "buba";
+	deck[10].suit = "diamonds";
 	deck[10].name = "eight";
 
 	deck[11].number = 8;
-	deck[11].suit = "pika";
+	deck[11].suit = "spades";
 	deck[11].name = "eight";
 
 	deck[12].number = 9;
-	deck[12].suit = "chirva";
+	deck[12].suit = "hearts";
 	deck[12].name = "nine";
 
 	deck[13].number = 9;
-	deck[13].suit = "creste";
+	deck[13].suit = "clubs";
 	deck[13].name = "nine";
 
 	deck[14].number = 9;
-	deck[14].suit = "buba";
+	deck[14].suit = "diamonds";
 	deck[14].name = "nine";
 
 	deck[15].number = 9;
-	deck[15].suit = "pika";
+	deck[15].suit = "spades";
 	deck[15].name = "nine";
 
 	deck[16].number = 10;
-	deck[16].suit = "chirva";
+	deck[16].suit = "hearts";
 	deck[16].name = "ten";
 
 	deck[17].number = 10;
-	deck[17].suit = "creste";
+	deck[17].suit = "clubs";
 	deck[17].name = "ten";
 
 	deck[18].number = 10;
-	deck[18].suit = "buba";
+	deck[18].suit = "diamonds";
 	deck[18].name = "ten";
 
 	deck[19].number = 10;
-	deck[19].suit = "pika";
+	deck[19].suit = "spades";
 	deck[19].name = "ten";
 
 	deck[20].number = 11;
-	deck[20].suit = "chirva";
+	deck[20].suit = "hearts";
 	deck[20].name = "Jack";
 
 	deck[21].number = 11;
-	deck[21].suit = "creste";
+	deck[21].suit = "clubs";
 	deck[21].name = "Jack";
 
 	deck[22].number = 11;
-	deck[22].suit = "buba";
+	deck[22].suit = "diamonds";
 	deck[22].name = "Jack";
 
 	deck[23].number = 11;
-	deck[23].suit = "pika";
+	deck[23].suit = "spades";
 	deck[23].name = "Jack";
 
 	deck[24].number = 12;
-	deck[24].suit = "chirva";
+	deck[24].suit = "hearts";
 	deck[24].name = "Quenn";
 
 	deck[25].number = 12;
-	deck[25].suit = "creste";
+	deck[25].suit = "clubs";
 	deck[25].name = "Quenn";
 
 	deck[26].number = 12;
-	deck[26].suit = "buba";
+	deck[26].suit = "diamonds";
 	deck[26].name = "Quenn";
 
 	deck[27].number = 12;
-	deck[27].suit = "pika";
+	deck[27].suit = "spades";
 	deck[27].name = "Quenn";
 
 	deck[28].number = 13;
-	deck[28].suit = "chirva";
+	deck[28].suit = "hearts";
 	deck[28].name = "King";
 
 	deck[29].number = 13;
-	deck[29].suit = "creste";
+	deck[29].suit = "clubs";
 	deck[29].name = "King";
 
 	deck[30].number = 13;
-	deck[30].suit = "buba";
+	deck[30].suit = "diamonds";
 	deck[30].name = "King";
 
 	deck[31].number = 13;
-	deck[31].suit = "pika";
+	deck[31].suit = "spades";
 	deck[31].name = "King";
 
 	deck[32].number = 14;
-	deck[32].suit = "chirva";
+	deck[32].suit = "hearts";
 	deck[32].name = "Tuz";
 
 	deck[33].number = 14;
-	deck[33].suit = "creste";
+	deck[33].suit = "clubs";
 	deck[33].name = "Tuz";
 
 	deck[34].number = 14;
-	deck[34].suit = "buba";
+	deck[34].suit = "diamonds";
 	deck[34].name = "Tuz";
 
 	deck[35].number = 14;
-	deck[35].suit = "pika";
-	deck[35].name = "Tuz";
+	deck[35].suit = "spades";
+	deck[35].name = "Ace";
 	int size = 35;
 
 
